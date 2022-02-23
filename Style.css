@@ -82,4 +82,7 @@
     color: white;
     border-radius: 2px;
     box-shadow: 1px 1px 15px 0px black;
+    position: fixed;
+    bottom:0px;
+    left:0px;
   }
