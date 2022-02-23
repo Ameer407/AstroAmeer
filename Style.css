@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background-color: rgb(93 0 180) !important;
+  }
+  #navbar {
+    background-color: #4b028e !important;
+    box-shadow: 1px 1px 15px 0px black;
+  }
+  .bg {
+    background-image: url(astroback.jpg);
+  }
+  #logo {
+  }
+  #logoimg {
+    width: 60px;
+  }
+  #headtitle {
+    color: white;
+    text-shadow: 0px 0px 15px white;
+    font-family: 'Fruktur', cursive;            }
+  #dobtitle {
+    text-align: center;
+  }
+  .dobbox {
+    background-color: #4b028e;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 1px 1px 15px 0px black;
+  }
+  .morediv{
+    border-radius: 15px;
+    padding: 3px 6px 2px 12px;
+    box-shadow: 1px 1px 15px 0px black;
+  }
+  #days {
+    background-color: #4b028e;
+    border: 2px solid rgb(93 0 180);
+    color: white;
+    height: 40px;
+  }
+  #month {
+    background-color: #4b028e;
+    border: 2px solid rgb(93 0 180);
+    color: white;
+    height: 40px;
+  }
+  #submit {
+    color: rgb(255, 255, 255);
+    border: 2px solid;
+    box-shadow: 0px 0px 20px 0px #11001e
+  }
+  #submit:hover {
+    background-color: white;
+    color: #4b028e;
+  }
+  #qualities {
+    text-align: center;
+  }
+  #hrline {
+    width: 300px;
+    margin: auto;
+    text-shadow: 0px 0px 15px white;
+
+  }
+  #image {
+    width: 100px;
+    margin: auto;
+    margin-top: 11px;
+    margin-bottom: 12px;
+    display: block;
+  }
+  #more {
+    text-align: center;
+    padding: 0px 35px 0px 35px;
+  }
+  #footer{
+      margin: 60px 0px 0px 0px;
+    background-color: #4b028e;
+    color: white;
+    border-radius: 2px;
+    box-shadow: 1px 1px 15px 0px black;
+  }
